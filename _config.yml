@@ -2,7 +2,7 @@
 title: Shuxuan Guo
 header-img: "img/blue.jpg"
 tagline: "cn"  
-description: "Fearless"  
+description: "Shuxuan Fearless"  
 baseurl: ""
 url: 
 #"http://cnfeat"  
@@ -63,4 +63,3 @@ bing_verify:
 
 # Links to include in footer navigation
 
-theme: jekyll-theme-cayman
