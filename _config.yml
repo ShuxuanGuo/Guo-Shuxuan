@@ -4,13 +4,14 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "Shuxuan's Homepage|Fearless"  
 baseurl: ""
-url: "http://cnfeat"  
+url: 
+#"http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "Shuxuan"
+  email: gsxuan.nudt@gmail.com
+  bio: "Fearless"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Shuxuan"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
